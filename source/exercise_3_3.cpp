@@ -21,7 +21,7 @@ int main()
 	return 0;
 }
 
-//returns the max numebr in arr
+//returns the max number in arr
 int max(int* arr)
 {
 	int maxNumber = arr[0];
